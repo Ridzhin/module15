@@ -1,0 +1,15 @@
+D:\шарп\Module15\Module15\bin\Debug\net6.0\Module15.exe
+D:\шарп\Module15\Module15\bin\Debug\net6.0\Module15.deps.json
+D:\шарп\Module15\Module15\bin\Debug\net6.0\Module15.runtimeconfig.json
+D:\шарп\Module15\Module15\bin\Debug\net6.0\Module15.dll
+D:\шарп\Module15\Module15\bin\Debug\net6.0\Module15.pdb
+D:\шарп\Module15\Module15\obj\Debug\net6.0\Module15.csproj.AssemblyReference.cache
+D:\шарп\Module15\Module15\obj\Debug\net6.0\Module15.GeneratedMSBuildEditorConfig.editorconfig
+D:\шарп\Module15\Module15\obj\Debug\net6.0\Module15.AssemblyInfoInputs.cache
+D:\шарп\Module15\Module15\obj\Debug\net6.0\Module15.AssemblyInfo.cs
+D:\шарп\Module15\Module15\obj\Debug\net6.0\Module15.csproj.CoreCompileInputs.cache
+D:\шарп\Module15\Module15\obj\Debug\net6.0\Module15.dll
+D:\шарп\Module15\Module15\obj\Debug\net6.0\refint\Module15.dll
+D:\шарп\Module15\Module15\obj\Debug\net6.0\Module15.pdb
+D:\шарп\Module15\Module15\obj\Debug\net6.0\Module15.genruntimeconfig.cache
+D:\шарп\Module15\Module15\obj\Debug\net6.0\ref\Module15.dll
